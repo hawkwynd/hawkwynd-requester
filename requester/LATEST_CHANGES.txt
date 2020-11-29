@@ -1,0 +1,4 @@
++ Added BBEdit project for my easier project management.
++ Updated README.txt to be very firm about 0.9 LS being the only supported one
+  (I *am* going to test on 1.0 finally fairly soon...)
++ Added TODO.txt for list of upcoming intended changes.
